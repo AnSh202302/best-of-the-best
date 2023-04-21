@@ -33,3 +33,16 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+body {
+  color: var(--main-text-color);
+  background-color: #fff;
+  font-family: Open Sans, sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.container {
+  width: 1360px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
